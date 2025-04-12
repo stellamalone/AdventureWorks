@@ -15,8 +15,8 @@ plt.tight_layout()
 plt.show()
 
 # Load the CSV file
-highest_sales = pd.read_csv('/Users/stellamalone/Downloads/dataworks_project/highest_sales.csv')
-regional_sales = pd.read_csv('/Users/stellamalone/Downloads/dataworks_project/regional_sales.csv')
+highest_sales = pd.read_csv('./datasets/highest_sales.csv')
+regional_sales = pd.read_csv('./datasets/regional_sales.csv')
 
 heatmap_data = regional_sales.set_index('Region')['RegionalSales'].to_frame()
 
@@ -113,7 +113,7 @@ plt.show()
 
 
 # Load the CSV file
-hours_bonus = pd.read_csv('/Users/stellamalone/Downloads/dataworks_project/vacation_hours_bonus.csv')
+hours_bonus = pd.read_csv('./datasets/vacation_hours_bonus.csv')
 
 # Calculate the correlation
 correlation = hours_bonus['VacationHours'].corr(hours_bonus['Bonus'])
@@ -134,7 +134,7 @@ correlation = hours_bonus['VacationHours'].corr(hours_bonus['Bonus'])
 # plt.ylabel('Bonus')
 # plt.show()
 
-country_revenue = pd.read_csv('/Users/stellamalone/Downloads/dataworks_project/country_revenue.csv')
+country_revenue = pd.read_csv('./datasets/country_revenue.csv')
 
 plt.bar(
     x=country_revenue['CountryRegionCode'],              
@@ -149,7 +149,7 @@ plt.xlabel("Country Region Code")
 plt.ylabel("TotalRevenue")
 # plt.show()
 
-sick_leave = pd.read_csv('/Users/stellamalone/Downloads/dataworks_project/sick_leave_job.csv')
+sick_leave = pd.read_csv('./datasets/sick_leave_job.csv')
 
 grouped = sick_leave.groupby('JobTitle')['SickLeaveHours'].mean()
 # print(grouped)
@@ -180,7 +180,7 @@ plt.tight_layout()
 
 
 # Load the CSV file
-df = pd.read_csv('/Users/stellamalone/Downloads/dataworks_project/tradingDuration_revenue.csv')
+df = pd.read_csv('./datasets/tradingDuration_revenue.csv')
 
 # Calculate correlation
 correlation = df['TradingDuration'].corr(df['AnnualRevenue'])
@@ -196,7 +196,7 @@ plt.title('Relationship between Store Trading Duration and Annual Revenue')
 
 
 # Load the data from CSV
-data = pd.read_csv('/Users/stellamalone/Downloads/dataworks_project/size_employees_rev.csv')
+data = pd.read_csv('./datasets/size_employees_rev.csv')
 
 # Compute correlation matrix
 correlation_matrix = data[['StoreSize', 'NumberOfEmployees', 'TotalRevenue']].corr()
@@ -226,7 +226,7 @@ plt.tight_layout()
 
 
 # Step 1: Read the CSV file
-df = pd.read_csv('/Users/stellamalone/Downloads/dataworks_project/question1.csv')
+df = pd.read_csv('./datasets/question1.csv')
 
 # Step 2: Group by 'CountryRegionCode' and sum the sales
 grouped_data = df.groupby('CountryRegionCode').agg({
