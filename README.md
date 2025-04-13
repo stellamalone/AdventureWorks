@@ -29,7 +29,7 @@ This project analyses sales performance, store operations, and employee metrics 
 
 ## How to Run
 1. Restore the AdventureWorks2019 database.
-2. Download CSV files in `sql_queries.sql`.
+2. Download CSV files in `datasets`.
 3. Run Python analysis scripts.
 4. View generated visualisations.
 
