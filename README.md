@@ -1,7 +1,7 @@
 # AdventureWorks2019 Sales Analysis Project
 
 ## Overview
-This project analyzes sales performance, store operations, and employee metrics using the AdventureWorks2019 database. The analysis focuses on identifying key relationships between various business metrics to provide actionable insights for business growth.
+This project analyses sales performance, store operations, and employee metrics using the AdventureWorks2019 database. The analysis focuses on identifying key relationships between various business metrics to provide actionable insights for business growth.
 
 ## Key Questions Addressed
 - Regional sales performance analysis
