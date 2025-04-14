@@ -1,0 +1,636 @@
+BusinessEntityID,StoreName,NumberOfTransactions,TotalRevenue,AvgTransactionValue,NumberOfUniqueProducts,StoreSizeByRevenue,StoreVolumeCategory
+828,Vigorous Exercise Company,12,41901163.2332,3491763.6027,118,Large Store,High Volume
+1962,Metropolitan Equipment,8,38882595.0092,4860324.3761,90,Large Store,High Volume
+592,Retail Mall,12,38595035.7224,3216252.9768,91,Large Store,High Volume
+1840,Top Sports Supply,8,38426845.5873,4803355.6984,106,Large Store,High Volume
+1336,Eastside Department Store,8,38056813.1057,4757101.6382,90,Large Store,High Volume
+786,Outdoor Equipment Store,8,38019405.0363,4752425.6295,82,Large Store,High Volume
+808,Registered Cycle Store,8,37509705.5585,4688713.1948,106,Large Store,High Volume
+1992,Totes & Baskets Company,12,36244446.9627,3020370.5802,93,Large Store,High Volume
+1242,Field Trip Store,8,35967231.4422,4495903.9302,87,Large Store,High Volume
+648,Corner Bicycle Supply,12,34514935.2968,2876244.608,88,Large Store,High Volume
+598,Sheet Metal Manufacturing,8,33400420.2883,4175052.536,84,Large Store,High Volume
+814,Excellent Riding Supplies,12,31603724.9636,2633643.7469,82,Large Store,High Volume
+652,Westside Plaza,4,31497626.5716,7874406.6429,60,Large Store,Medium Volume
+816,Farthermost Bike Shop,12,30628104.1734,2552342.0144,92,Large Store,High Volume
+1424,Closeout Boutique,8,29271041.1161,3658880.1395,100,Large Store,High Volume
+1032,Brakes and Gears,12,27875150.2941,2322929.1911,81,Large Store,High Volume
+600,Thorough Parts and Repair Services,12,27364011.7039,2280334.3086,84,Large Store,High Volume
+1266,Reasonable Bicycle Sales,8,26908396.1356,3363549.5169,77,Large Store,High Volume
+1418,"Health Spa, Limited",12,26858354.4724,2238196.206,79,Large Store,High Volume
+1970,Permanent Finish Products,12,26429948.5079,2202495.7089,107,Large Store,High Volume
+662,Fitness Toy Store,12,26402543.8872,2200211.9906,75,Large Store,High Volume
+1844,Metropolitan Bicycle Supply,8,25458971.7041,3182371.463,82,Large Store,High Volume
+1356,Larger Cycle Shop,12,25112356.9951,2092696.4162,97,Large Store,High Volume
+518,Latest Sports Equipment,12,24772825.9661,2064402.1638,92,Large Store,High Volume
+472,Safe Cycles Shop,8,24398358.0945,3049794.7618,104,Large Store,High Volume
+874,Real Sporting Goods,8,24173531.8814,3021691.4851,105,Large Store,High Volume
+1050,First Bike Store,12,23353820.735,1946151.7279,74,Large Store,High Volume
+1982,Mail-Order Outlet,8,23058418.2984,2882302.2873,75,Large Store,High Volume
+762,Friendly Bike Shop,8,22956520.5977,2869565.0747,80,Large Store,High Volume
+1426,Bicycle Merchandise Warehouse,4,22897364.6695,5724341.1673,66,Large Store,Medium Volume
+372,The Gear Store,12,22711581.4028,1892631.7835,99,Large Store,High Volume
+1896,Tenth Bike Store,8,22682366.641,2835295.8301,70,Large Store,High Volume
+432,Bulk Discount Store,8,22545782.9816,2818222.8727,82,Large Store,High Volume
+318,"Great Bikes ",12,21239421.8286,1769951.819,79,Large Store,High Volume
+798,Sales and Supply Company,8,20528051.3116,2566006.4139,76,Large Store,High Volume
+790,Preferred Bikes,8,20110701.0431,2513837.6303,75,Large Store,High Volume
+932,Modular Cycle Systems,8,20027011.5895,2503376.4486,57,Large Store,High Volume
+794,Rewarding Activities Company,12,19979001.9546,1664916.8295,93,Large Store,High Volume
+548,Eastside Sporting Goods,4,19616931.5816,4904232.8954,59,Large Store,Medium Volume
+928,Rural Cycle Emporium,8,19441563.0317,2430195.3789,79,Large Store,High Volume
+296,Riders Company,12,19411016.706,1617584.7255,92,Large Store,High Volume
+534,Prosperous Tours,8,19349050.0246,2418631.253,90,Large Store,High Volume
+1420,Global Bike Retailers,4,18957613.9637,4739403.4909,60,Large Store,Medium Volume
+1976,Exhilarating Cycles,8,18859075.4844,2357384.4355,86,Large Store,High Volume
+1836,Extraordinary Bike Works,8,18775778.8616,2346972.3577,79,Large Store,High Volume
+1414,Bike Dealers Association,12,18677980.3463,1556498.3621,93,Large Store,High Volume
+1322,Rapid Bikes,12,17814245.8518,1484520.4876,113,Large Store,High Volume
+1262,Roadway Bicycle Supply,4,17777330.4011,4444332.6002,45,Large Store,Medium Volume
+1430,Leather Seat Factory,8,17613320.6068,2201665.0758,68,Large Store,High Volume
+792,Rally Day Mall,8,17534619.2135,2191827.4016,86,Large Store,High Volume
+478,Golf and Cycle Store,8,17379766.9029,2172470.8628,56,Large Store,High Volume
+768,Citywide Service and Repair,8,17291068.8606,2161383.6075,87,Large Store,High Volume
+370,Resale Services,12,17189603.1396,1432466.9283,98,Large Store,High Volume
+1422,Fashionable Department Stores,8,16728391.2849,2091048.9106,104,Large Store,High Volume
+856,Action Bicycle Specialists,4,16422415.4584,4105603.8646,53,Large Store,Medium Volume
+302,Area Bike Accessories,12,16334704.4404,1361225.37,85,Large Store,High Volume
+642,Advanced Bike Components,12,16212614.935,1351051.2445,86,Large Store,High Volume
+1254,Mountain Bike Center,8,16054320.4177,2006790.0522,67,Large Store,High Volume
+1086,Seventh Bike Store,12,16003036.3497,1333586.3624,85,Large Store,High Volume
+852,Original Bicycle Supply Company,12,15713982.4029,1309498.5335,106,Large Store,High Volume
+1200,General Supplies,8,15216811.9996,1902101.4999,83,Large Store,High Volume
+984,Riding Cycles,4,15167427.8257,3791856.9564,55,Large Store,Medium Volume
+1278,Many Bikes Store,8,15085487.3881,1885685.9235,84,Large Store,High Volume
+954,Futuristic Sport Distributors,8,14909003.8965,1863625.487,84,Large Store,High Volume
+788,Paint Supply,12,14892900.5334,1241075.0444,105,Large Store,High Volume
+978,Commercial Sporting Goods,4,14871449.2491,3717862.3122,57,Large Store,Medium Volume
+1046,Better Bike Shop,12,14601620.4153,1216801.7012,97,Large Store,High Volume
+340,eCommerce Bikes,8,14346536.403,1793317.0503,68,Large Store,High Volume
+1300,Perfect Toys,4,14157595.5094,3539398.8773,43,Large Store,Medium Volume
+664,Casual Bicycle Store,8,14051671.3215,1756458.9151,82,Large Store,High Volume
+770,Best Cycle Store,4,13722029.2366,3430507.3091,54,Large Store,Medium Volume
+1248,Glossy Bikes,4,13679613.0858,3419903.2714,64,Large Store,Medium Volume
+692,Grand Discount Store,8,13607363.9317,1700920.4914,92,Large Store,High Volume
+1220,Commerce Bicycle Specialists,8,13565575.9406,1695696.9925,87,Large Store,High Volume
+1108,Affordable Sports Equipment,8,13432044.5976,1679005.5747,71,Large Store,High Volume
+1830,Getaway Inn,8,13378539.3431,1672317.4178,82,Large Store,High Volume
+672,Good Bike Shop,12,13056385.8894,1088032.1574,77,Large Store,High Volume
+1174,Sure & Reliable Sporting Goods,8,13027731.3769,1628466.4221,61,Large Store,High Volume
+812,Sundry Sporting Goods,12,12944760.0692,1078730.0057,77,Large Store,High Volume
+602,Uttermost Bike Shop,8,12673355.3208,1584169.4151,76,Large Store,High Volume
+1184,Separate Parts Corporation,8,12359544.2779,1544943.0347,68,Large Store,High Volume
+300,Nationwide Supply,4,12230555.7672,3057638.9418,61,Large Store,Medium Volume
+1182,New and Used Bicycles,12,12193014.5388,1016084.5449,78,Large Store,High Volume
+626,Camping and Sports Store,4,12128834.3122,3032208.578,42,Large Store,Medium Volume
+1842,Racing Sales and Service,8,12001386.9056,1500173.3632,58,Large Store,High Volume
+344,Retail Sales and Service,12,11990085.2908,999173.7742,74,Large Store,High Volume
+832,Lease-a-Bike Shop,12,11844575.4884,987047.9573,69,Large Store,High Volume
+962,Spa and Exercise Outfitters,8,11838389.8756,1479798.7344,89,Large Store,High Volume
+1994,World of Bikes,8,11614156.4385,1451769.5548,84,Large Store,High Volume
+1334,Chic Department Stores,8,11503303.2325,1437912.904,78,Large Store,High Volume
+562,Custom Accessories Company,8,11441933.6792,1430241.7099,78,Large Store,High Volume
+1404,Rally Master Company Inc,4,11296941.9471,2824235.4867,39,Large Store,Medium Volume
+1898,Valuable Bike Parts Company,8,11211815.7935,1401476.9741,90,Large Store,High Volume
+1944,Quantity Discounts,8,11199577.7867,1399947.2233,59,Large Store,High Volume
+1236,Twelfth Bike Store,8,11161044.0999,1395130.5124,80,Large Store,High Volume
+976,Genial Bike Associates,8,10993482.231,1374185.2788,78,Large Store,High Volume
+442,Another Bicycle Company,4,10829774.5729,2707443.6432,59,Large Store,Medium Volume
+516,Initial Bike Company,8,10807663.3423,1350957.9177,80,Large Store,High Volume
+1234,Spare Parts Co.,8,10803420.0323,1350427.504,86,Large Store,High Volume
+474,Number 1 Supply,8,10691341.8534,1336417.7316,66,Large Store,High Volume
+596,Metro Metals Co.,4,10608105.2416,2652026.3104,46,Large Store,Medium Volume
+848,Satin Finish Company,8,10571102.4688,1321387.8086,76,Large Store,High Volume
+764,Fashionable Bikes and Accessories,12,10516591.7336,876382.6444,77,Large Store,High Volume
+1302,Exhibition Showroom,4,10474627.7352,2618656.9338,75,Large Store,Medium Volume
+1296,Trailblazing Sports,12,10414164.3555,867847.0296,87,Large Store,High Volume
+1858,Bicycle Lines Distributors,8,10322929.439,1290366.1798,80,Large Store,High Volume
+1188,"Fabrikam Inc., West",8,10144196.4424,1268024.5553,85,Large Store,High Volume
+1330,Elite Bikes,4,10103910.279,2525977.5697,64,Large Store,Medium Volume
+834,Functional Store South,4,10084229.9441,2521057.486,72,Large Store,Medium Volume
+622,Bikes and Motorbikes,8,9950484.6525,1243810.5815,66,Large Store,High Volume
+1916,Active Life Toys,4,9945381.3254,2486345.3313,57,Large Store,Medium Volume
+616,Tread Industries,4,9876095.1617,2469023.7904,22,Large Store,Medium Volume
+1126,Hardware Components,4,9797604.2584,2449401.0646,22,Large Store,Medium Volume
+656,Outstanding Cycles,4,9690161.0137,2422540.2534,53,Large Store,Medium Volume
+1066,Small Bike Shop,12,9564382.1293,797031.8441,79,Large Store,High Volume
+1070,Fitness Sport Boutique,4,9486928.3297,2371732.0824,43,Large Store,Medium Volume
+482,Favorite Toy Distributor,4,9300186.9168,2325046.7292,42,Large Store,Medium Volume
+1332,Catalog Store,12,9215778.9399,767981.5783,84,Large Store,High Volume
+480,Front Runner Bikes,4,9051197.3405,2262799.3351,57,Large Store,Medium Volume
+538,Amalgamated Parts Shop,4,9022649.3704,2255662.3426,55,Large Store,Medium Volume
+464,Odometers and Accessories Company,4,8874163.194,2218540.7985,50,Large Store,Medium Volume
+1316,Wheelsets Storehouse,8,8790578.3179,1098822.2897,69,Large Store,High Volume
+1202,Noiseless Gear Company,8,8711026.3895,1088878.2986,63,Large Store,High Volume
+1888,Vintage Sport Boutique,4,8684638.5332,2171159.6333,56,Large Store,Medium Volume
+1084,Running and Cycling Gear,4,8480601.8406,2120150.4601,46,Large Store,Medium Volume
+582,Excellent Bikes,4,8472571.4182,2118142.8545,53,Large Store,Medium Volume
+1882,Red Bicycle Company,12,8466535.0887,705544.5907,68,Large Store,High Volume
+1900,Fun Times Club,12,8442142.7063,703511.8921,63,Large Store,High Volume
+1250,Next Door Cycles,4,8287941.1307,2071985.2826,46,Large Store,Medium Volume
+618,Petroleum Products Distributors,4,8181588.9936,2045397.2484,58,Large Store,Medium Volume
+580,Farthest Bike Store,4,8175262.3144,2043815.5786,49,Large Store,Medium Volume
+1878,Immediate Repair Shop,8,8165353.3085,1020669.1635,60,Large Store,High Volume
+324,Valley Toy Store,8,8114993.7112,1014374.2139,78,Large Store,High Volume
+422,Bike Boutique,8,7894329.8593,986791.2324,59,Large Store,High Volume
+1214,Sturdy Toys,12,7739819.5039,644984.9586,67,Large Store,High Volume
+1984,Nearby Cycle Shop,8,7626772.2207,953346.5275,68,Large Store,High Volume
+1834,Bike Experts,4,7586734.9277,1896683.7319,57,Large Store,Medium Volume
+352,Tiny Bike Boutique,4,7417938.3402,1854484.585,47,Large Store,Medium Volume
+1890,Travel Sports,4,7356601.7302,1839150.4325,59,Large Store,Medium Volume
+1290,Frugal Bike Shop,8,7308058.8694,913507.3586,70,Large Store,High Volume
+780,Finer Riding Supplies,12,7152290.6671,596024.2222,83,Large Store,High Volume
+1284,Instruments and Parts Company,4,7025234.9021,1756308.7255,43,Large Store,Medium Volume
+1832,Downhill Bicycle Specialists,4,6917539.5236,1729384.8809,54,Large Store,Medium Volume
+1328,Front Sporting Goods,4,6870748.451,1717687.1127,57,Large Store,Medium Volume
+570,Professional Cycle Store,8,6748818.0894,843602.2611,58,Large Store,High Volume
+1040,Family Cycle Store,8,6619988.6987,827498.5873,56,Large Store,High Volume
+1258,Scooters and Bikes Store,4,6450036.2919,1612509.0729,36,Large Store,Medium Volume
+1294,Go-cart and Bike Specialists,4,6422912.8789,1605728.2197,54,Large Store,Medium Volume
+1990,Technical Parts Manufacturing,4,6319287.9007,1579821.9751,37,Large Store,Medium Volume
+1958,Ultimate Bicycle Company,4,6310356.2307,1577589.0576,51,Large Store,Medium Volume
+446,Rodeway Bike Store,4,6275854.8052,1568963.7013,60,Large Store,Medium Volume
+444,Fourth Bike Store,4,6187434.7199,1546858.6799,62,Large Store,Medium Volume
+308,Valley Bicycle Specialists,6,6153152.1974,1025525.3662,53,Large Store,Medium Volume
+624,Budget Toy Store,4,5923832.5797,1480958.1449,48,Large Store,Medium Volume
+376,Extended Bike Sales,4,5774269.409,1443567.3522,22,Large Store,Medium Volume
+1362,Metro Bike Mart,11,5704226.6481,518566.0589,62,Large Store,High Volume
+1946,Swift Cycles,12,5609067.9563,467422.3296,62,Large Store,High Volume
+440,Juvenile Sports Equipment,8,5588374.5114,698546.8139,53,Large Store,High Volume
+1246,Finer Parts Shop,9,5584828.3572,620536.4841,51,Large Store,High Volume
+970,Primary Bike Distributors,12,5512533.8481,459377.8206,54,Large Store,High Volume
+1914,Educational Services,4,5506498.9117,1376624.7279,62,Large Store,Medium Volume
+1030,Underglaze and Finish Company,4,5502098.4403,1375524.61,52,Large Store,Medium Volume
+982,Steel Inc.,8,5457921.4922,682240.1865,69,Large Store,High Volume
+612,Metro Cycle Shop,10,5444812.1953,544481.2195,60,Large Store,High Volume
+1230,Fitness Supplies,4,5338824.083,1334706.0207,59,Large Store,Medium Volume
+782,Neighborhood Store,4,5330795.607,1332698.9017,51,Large Store,Medium Volume
+294,Professional Sales and Service,4,5272395.7822,1318098.9455,58,Large Store,Medium Volume
+774,Rugged Bikes,4,5206231.7632,1301557.9408,35,Large Store,Medium Volume
+1038,Bike Part Wholesalers,4,5166867.3525,1291716.8381,63,Large Store,Medium Volume
+668,General Cycle Storehouse,8,5097108.2433,637138.5304,48,Large Store,High Volume
+1238,Consolidated Messenger,4,4926443.9969,1231610.9992,44,Large Store,Medium Volume
+838,Stock Parts and Supplies,4,4775290.7917,1193822.6979,37,Large Store,Medium Volume
+1042,Popular Bike Lines,4,4690005.6549,1172501.4137,52,Large Store,Medium Volume
+860,"Sleek Bikes ",4,4637478.0564,1159369.5141,35,Large Store,Medium Volume
+1938,Cycle Parts and Accessories,4,4586542.0361,1146635.509,56,Large Store,Medium Volume
+1868,Executive Gift Store,8,4555279.5329,569409.9416,48,Large Store,High Volume
+884,Qualified Sales and Repair Services,4,4527862.6837,1131965.6709,35,Large Store,Medium Volume
+1950,"Helpful Sales and Repair Service ",4,4503648.2046,1125912.0511,55,Large Store,Medium Volume
+292,Next-Door Bike Store,7,4416690.7982,630955.8283,45,Large Store,Medium Volume
+1972,Mercantile Outlet,4,4385017.0841,1096254.271,35,Large Store,Medium Volume
+824,Utilitarian Sporting Goods,4,4373279.1524,1093319.7881,45,Large Store,Medium Volume
+696,Extreme Riding Supplies,4,4369321.1564,1092330.2891,33,Large Store,Medium Volume
+356,Serious Cycles,8,4281312.7829,535164.0978,26,Large Store,High Volume
+1358,Leading Sales & Repair,4,4228946.8434,1057236.7108,30,Large Store,Medium Volume
+1940,Fasteners & Bolts Outlet,4,4185153.7568,1046288.4392,59,Large Store,Medium Volume
+1252,Up-To-Date Sports,4,4117452.3796,1029363.0949,44,Large Store,Medium Volume
+326,Worthwhile Activity Store,7,4070147.2627,581449.6089,43,Large Store,Medium Volume
+1350,Every Bike Shop,12,3931453.9244,327621.1603,69,Large Store,High Volume
+382,Work and Play Association,8,3922847.6469,490355.9558,39,Large Store,High Volume
+1260,Closest Bicycle Store,4,3916111.3781,979027.8445,47,Large Store,Medium Volume
+1866,Gears and Parts Company,4,3819502.4623,954875.6155,45,Large Store,Medium Volume
+1846,Honest Repair Service,4,3817925.4284,954481.3571,33,Large Store,Medium Volume
+1082,First Cycle Store,10,3812793.2304,381279.323,47,Large Store,High Volume
+374,Immense Manufacturing Company,4,3765284.0561,941321.014,27,Large Store,Medium Volume
+1080,Exchange Parts Inc.,4,3719403.4521,929850.863,46,Large Store,Medium Volume
+804,Downtown Hotel,4,3711002.0662,927750.5165,15,Large Store,Medium Volume
+346,Designated Distributors,4,3682968.0277,920742.0069,30,Large Store,Medium Volume
+550,Helmets and Cycles,4,3674735.57,918683.8925,45,Large Store,Medium Volume
+394,Blue-Ribbon Bike Company,4,3641722.8158,910430.7039,49,Large Store,Medium Volume
+1304,Authorized Bike Sales and Rental,4,3578625.0448,894656.2612,34,Large Store,Medium Volume
+476,Industrial Supplies,4,3575153.825,893788.4562,33,Large Store,Medium Volume
+862,Retail Sporting Equipment,4,3540861.6514,885215.4128,36,Large Store,Medium Volume
+878,Bicycle Outfitters,8,3511444.05,438930.5062,46,Large Store,High Volume
+1282,Kickstands and Accessories Company,4,3466340.6677,866585.1669,42,Large Store,Medium Volume
+1210,Pretty Bikes and Toys,4,3399163.9831,849790.9957,30,Large Store,Medium Volume
+1324,Metro Sports Equipment,7,3348467.6619,478352.5231,49,Large Store,Medium Volume
+1980,Great Bicycle Supply,4,3288133.1507,822033.2876,14,Large Store,Medium Volume
+1052,Traditional Department Stores,8,3250907.4185,406363.4273,47,Large Store,High Volume
+1966,Convenient Sales and Service,8,3204951.8832,400618.9854,53,Large Store,High Volume
+1352,Grand Industries,4,3165870.405,791467.6012,33,Large Store,Medium Volume
+796,Rich Department Store,4,3111805.2895,777951.3223,32,Large Store,Medium Volume
+1036,Mountain Bike Store,4,3099278.4374,774819.6093,39,Medium Store,Medium Volume
+1874,Eighth Bike Store,4,3070090.8243,767522.706,41,Medium Store,Medium Volume
+660,Sports Merchandise,4,3037736.6279,759434.1569,29,Medium Store,Medium Volume
+940,Cycles Wholesaler & Mfg.,4,3032746.0533,758186.5133,46,Medium Store,Medium Volume
+858,Roadway Bike Emporium,4,3023651.42,755912.855,30,Medium Store,Medium Volume
+1894,The Bike Outlet,4,2981468.4897,745367.1224,39,Medium Store,Medium Volume
+1198,"Fabrikam Inc., East",4,2924730.6327,731182.6581,37,Medium Store,Medium Volume
+1928,Quick Parts and Service,4,2827588.7858,706897.1964,38,Medium Store,Medium Volume
+522,Raw Materials Inc,4,2781738.07,695434.5175,23,Medium Store,Medium Volume
+1948,Classic Cycle Store,9,2762286.2458,306920.6939,35,Medium Store,High Volume
+316,Fun Toys and Bikes,4,2759133.0277,689783.2569,41,Medium Store,Medium Volume
+936,Journey Sporting Goods,4,2679506.7291,669876.6822,19,Medium Store,Medium Volume
+1270,Outdoor Sports Supply,7,2645063.733,377866.2475,24,Medium Store,Medium Volume
+1276,Metal Clearing House,4,2593420.1322,648355.033,42,Medium Store,Medium Volume
+870,Vast Bike Sales and Rental,4,2524018.2106,631004.5526,22,Medium Store,Medium Volume
+1164,Consolidated Sales,12,2446614.8594,203884.5716,48,Medium Store,High Volume
+348,Bold Bike Accessories,11,2406814.8258,218801.3478,36,Medium Store,High Volume
+1956,Wire Baskets and Parts,4,2384961.1374,596240.2843,34,Medium Store,Medium Volume
+1312,National Manufacturing,8,2376914.9996,297114.3749,46,Medium Store,High Volume
+1044,Superb Sales and Repair,9,2232827.5662,248091.9518,39,Medium Store,High Volume
+1968,Solid Bike Parts,8,2163456.1857,270432.0232,48,Medium Store,High Volume
+368,Brightwork Company,12,2133612.7666,177801.0638,44,Medium Store,High Volume
+1192,Non-Slip Pedal Company,9,2103477.3128,233719.7014,37,Medium Store,High Volume
+1934,A Typical Bike Shop,4,2069206.9781,517301.7445,32,Medium Store,Medium Volume
+520,Modern Bike Store,9,2065144.7224,229460.5247,34,Medium Store,High Volume
+1310,Unified Sports Company,11,1897896.8239,172536.0749,29,Medium Store,High Volume
+1090,General Associates,12,1877190.9872,156432.5822,47,Medium Store,High Volume
+934,A Bike Store,4,1843742.9995,460935.7498,32,Medium Store,Medium Volume
+334,Global Plaza,4,1798808.931,449702.2327,12,Medium Store,Medium Volume
+1228,District Mall,4,1782393.9067,445598.4766,30,Medium Store,Medium Volume
+1018,Trusted Catalog Store,12,1764275.5631,147022.9635,41,Medium Store,High Volume
+820,Weekend Tours,8,1736852.4791,217106.5598,32,Medium Store,High Volume
+964,Year-Round Sports,6,1736326.3402,289387.7233,18,Medium Store,Medium Volume
+1936,Active Transport Inc.,8,1730314.6764,216289.3345,33,Medium Store,High Volume
+1338,Sports Sales and Rental,9,1694460.5294,188273.3921,20,Medium Store,High Volume
+544,Painters Bicycle Specialists,12,1674210.1992,139517.5166,50,Medium Store,High Volume
+1170,Sample Bike Store,5,1658168.9945,331633.7989,26,Medium Store,Medium Volume
+1206,Capable Sales and Service,4,1649657.713,412414.4282,15,Medium Store,Medium Volume
+1450,Guaranteed Sales and Service,8,1617720.061,202215.0076,39,Medium Store,High Volume
+1440,Variety Cycling,4,1562734.3258,390683.5814,19,Medium Store,Medium Volume
+1462,Small Bike Accessories Shop,4,1560757.5571,390189.3892,34,Medium Store,Medium Volume
+1240,Daring Rides,4,1557418.8737,389354.7184,25,Medium Store,Medium Volume
+698,Bike Rims Company,6,1521646.7542,253607.7923,30,Medium Store,Medium Volume
+882,Safe Toys,4,1436200.9718,359050.2429,15,Medium Store,Medium Volume
+1014,Bike World,8,1427249.642,178406.2052,37,Medium Store,High Volume
+864,Price-Cutter Discount Bikes,8,1409285.3845,176160.673,34,Medium Store,High Volume
+1370,Liquidation Sales,4,1362303.005,340575.7512,35,Medium Store,Medium Volume
+1860,Sparkling Paint and Finishes,4,1350324.7329,337581.1832,15,Medium Store,Medium Volume
+800,Stationary Bikes and Stands,4,1348066.0411,337016.5102,29,Medium Store,Medium Volume
+776,Principal Bike Company,8,1286296.8731,160787.1091,35,Medium Store,High Volume
+654,Ultimate Bike Shop,9,1277222.4422,141913.6046,23,Medium Store,High Volume
+708,South Bike Company,4,1232032.8898,308008.2224,29,Medium Store,Low Volume
+974,Leather and Vinyl Manufacturing,4,1186315.5806,296578.8951,28,Medium Store,Low Volume
+1464,List Price Catalog Company,4,1180804.7686,295201.1921,27,Medium Store,Low Volume
+980,Wholesale Parts,4,1174436.5953,293609.1488,24,Medium Store,Low Volume
+392,Small Cycle Store,12,1164501.2363,97041.7696,45,Medium Store,High Volume
+1026,Metropolitan Sports Supply,8,1120925.3801,140115.6725,35,Medium Store,High Volume
+746,Grand Sport Boutique,8,1106747.8065,138343.4758,33,Medium Store,High Volume
+1388,Official Parts Shop,8,1085842.5684,135730.321,36,Medium Store,High Volume
+1016,Central Discount Store,12,1085171.35,90430.9458,40,Medium Store,High Volume
+1344,Exotic Bikes,10,1037870.6001,103787.06,26,Medium Store,High Volume
+1930,Reliable Brake Systems,4,998381.1777,249595.2944,19,Medium Store,Low Volume
+752,Elemental Sporting Goods,12,994904.7457,82908.7288,30,Medium Store,High Volume
+1438,Some Discount Store,7,983536.7281,140505.2468,14,Medium Store,Medium Volume
+1474,Cycles Sales and Repair,4,971478.1563,242869.539,22,Medium Store,Low Volume
+958,Big-Time Bike Store,8,968904.6328,121113.0791,39,Medium Store,High Volume
+428,Finer Cycle Shop,8,964766.7209,120595.8401,36,Medium Store,High Volume
+1456,Sunny Place Bikes,11,960952.8789,87359.3526,37,Medium Store,High Volume
+512,Metal Processing Company,12,954963.6032,79580.3002,48,Medium Store,High Volume
+1802,Cycling Goods,8,949191.3498,118648.9187,46,Medium Store,High Volume
+410,Fast Bike Works,4,889474.0067,222368.5016,18,Medium Store,Low Volume
+1002,Distant Inn,8,888663.7191,111082.9648,38,Medium Store,High Volume
+388,Remarkable Bike Store,11,882766.4169,80251.4924,27,Medium Store,High Volume
+1158,Paints and Solvents Company,4,861026.9074,215256.7268,26,Medium Store,Low Volume
+926,Unique Bikes,4,855161.4454,213790.3613,12,Medium Store,Low Volume
+710,Wonderful Bikes Inc.,4,827840.9604,206960.2401,26,Medium Store,Low Volume
+412,Gasless Cycle Shop,12,814483.0254,67873.5854,46,Medium Store,High Volume
+682,Thrilling Bike Tours,4,803054.5776,200763.6444,23,Medium Store,Low Volume
+1134,Highway Bike Shop,12,802701.7038,66891.8086,40,Medium Store,High Volume
+986,Metro Manufacturing,8,801303.4531,100162.9316,38,Medium Store,High Volume
+908,General Bike Corporation,12,783706.1715,65308.8476,41,Medium Store,High Volume
+498,Moderately-Priced Bikes Store,12,773321.3271,64443.4439,30,Medium Store,High Volume
+306,Clamps & Brackets Co.,4,767479.8221,191869.9555,16,Medium Store,Low Volume
+1374,Yellow Bicycle Company,5,766441.0885,153288.2177,13,Medium Store,Medium Volume
+1822,Gift and Toy Store,8,754997.6048,94374.7006,43,Medium Store,High Volume
+998,Greater Bike Store,12,747134.8855,62261.2404,32,Medium Store,High Volume
+694,Genuine Bike Shop,7,723797.4101,103399.63,27,Medium Store,Medium Volume
+720,Machines & Cycles Store,4,708364.751,177091.1877,22,Medium Store,Low Volume
+988,Manufacturers Inc,8,704879.0541,88109.8817,29,Medium Store,High Volume
+556,Mechanical Products Ltd.,8,702297.6423,87787.2052,41,Medium Store,High Volume
+414,Lubricant and Grease Suppliers,8,695898.946,86987.3682,36,Medium Store,High Volume
+1114,Community Department Stores,8,686207.7789,85775.9723,36,Medium Store,High Volume
+496,Grease and Oil Products Company,12,682603.7937,56883.6494,39,Medium Store,High Volume
+1486,Rural Mountain Bike Mart,8,657811.4845,82226.4355,18,Medium Store,High Volume
+948,Standard Bikes,8,634146.4743,79268.3092,31,Medium Store,High Volume
+990,Locks Company,4,634040.1576,158510.0394,18,Medium Store,Low Volume
+378,Pedaling Components,4,613623.7155,153405.9288,19,Medium Store,Low Volume
+1384,Finer Sporting Goods,4,591787.9476,147946.9869,32,Medium Store,Low Volume
+1150,Certified Bicycle Supply,8,574573.1406,71821.6425,41,Medium Store,High Volume
+946,Racing Supply Distributors,4,572346.6818,143086.6704,24,Medium Store,Low Volume
+1010,Cross-Country Riding Supplies,4,565763.2574,141440.8143,11,Medium Store,Low Volume
+802,Successful Sales Company,8,564547.9975,70568.4996,40,Medium Store,High Volume
+532,North Bike Company,8,560614.3696,70076.7962,36,Medium Store,High Volume
+1376,Sports Products Store,8,543578.3325,67947.2915,30,Medium Store,High Volume
+1398,Oils and Fluids Warehouse,8,541975.5021,67746.9377,21,Medium Store,High Volume
+1798,One Bike Company,8,538317.6077,67289.7009,20,Medium Store,High Volume
+732,Urban Sports Emporium,8,512822.5306,64102.8163,41,Medium Store,High Volume
+818,Suburban Cycle Shop,7,510144.1264,72877.7323,14,Medium Store,Medium Volume
+298,The Bike Mechanics,11,500533.504,45503.0458,31,Medium Store,High Volume
+738,Sixth Bike Store,8,473113.7863,59139.2232,21,Medium Store,High Volume
+366,Activity Center,8,470877.7854,58859.7231,34,Medium Store,High Volume
+744,First Department Stores,8,457609.0524,57201.1315,27,Medium Store,High Volume
+1816,Famous Bike Shop,8,438948.5609,54868.5701,32,Medium Store,High Volume
+686,Full-Service Bike Store,4,436793.1315,109198.2828,11,Medium Store,Low Volume
+900,Basic Sports Equipment,12,429807.6859,35817.3071,33,Medium Store,High Volume
+590,Full Sports Supply,4,417709.3075,104427.3268,20,Medium Store,Low Volume
+688,Plastic Products Manufacturers,4,411605.5756,102901.3939,18,Medium Store,Low Volume
+608,Two-Wheeled Transit Company,12,393174.239,32764.5199,28,Medium Store,High Volume
+702,Local Hardware Factory,4,392115.2611,98028.8152,13,Medium Store,Low Volume
+1136,Rental Bikes,6,375716.8812,62619.4802,12,Medium Store,Medium Volume
+632,Sports Commodities,4,363233.7899,90808.4474,10,Medium Store,Low Volume
+944,Number One Bike Co.,8,362956.3172,45369.5396,29,Medium Store,Medium Volume
+1056,General Department Stores,10,355686.8095,35568.6809,32,Medium Store,High Volume
+910,Quitting Business Distributors,4,351725.0054,87931.2513,20,Medium Store,Low Volume
+684,This Area Sporting Goods,8,333808.0096,41726.0012,20,Medium Store,Medium Volume
+552,Requisite Part Supply,4,332811.5097,83202.8774,10,Medium Store,Low Volume
+636,Bicycle Exporters,4,321667.6968,80416.9242,23,Medium Store,Low Volume
+1152,Exceptional Cycle Services,4,320883.5799,80220.8949,21,Medium Store,Low Volume
+718,First Supplies,4,318446.0139,79611.5034,20,Medium Store,Low Volume
+1838,Valley Bicycle Distributors,7,315903.3192,45129.0456,28,Medium Store,Medium Volume
+1028,Progressive Sports,8,315494.7537,39436.8442,35,Medium Store,Medium Volume
+1022,Sharp Bikes,4,308871.647,77217.9117,10,Medium Store,Low Volume
+846,Super Sports Store,12,306768.8418,25564.0701,35,Medium Store,High Volume
+904,Convenient Bike Shop,4,300827.3405,75206.8351,10,Medium Store,Low Volume
+1142,Major Amusement Company,8,298847.439,37355.9298,34,Medium Store,Medium Volume
+1478,Metropolitan Manufacturing,11,293237.2035,26657.9275,33,Medium Store,High Volume
+728,Wholesale Bikes,12,290719.2957,24226.6079,23,Medium Store,High Volume
+716,Famous Bike Sales and Service,11,282340.4182,25667.3107,25,Medium Store,High Volume
+758,Nearby Bike Mall,4,275072.1252,68768.0313,23,Medium Store,Low Volume
+638,Responsible Bike Dealers,8,269352.0746,33669.0093,31,Medium Store,Medium Volume
+1204,Racing Toys,12,264511.6321,22042.636,42,Medium Store,High Volume
+466,Scratch-Resistant Finishes Company,9,261780.6539,29086.7393,22,Medium Store,High Volume
+1394,Tire Exchange,8,257625.324,32203.1655,33,Medium Store,Medium Volume
+826,"Bike Goods ",12,253068.0296,21089.0024,38,Medium Store,High Volume
+1444,Remote Bicycle Specialists,8,247874.9968,30984.3746,31,Medium Store,Medium Volume
+1392,Discount Tours,11,239333.6566,21757.6051,31,Medium Store,High Volume
+1396,Racing Tours,4,235274.1702,58818.5425,24,Medium Store,Low Volume
+364,Leading Bike Distributors,4,233285.294,58321.3235,20,Medium Store,Low Volume
+1468,Village Tours,4,227058.3179,56764.5794,19,Medium Store,Low Volume
+754,Distinctive Store,4,226347.9993,56586.9998,10,Medium Store,Low Volume
+704,Only Bikes and Accessories,4,224203.6628,56050.9157,9,Medium Store,Low Volume
+1400,Finished Parts Shop,8,223717.1582,27964.6447,19,Medium Store,Medium Volume
+546,Client Discount Store,8,222247.7565,27780.9695,26,Medium Store,Medium Volume
+1364,Tandem Sales and Service,6,212189.2307,35364.8717,13,Medium Store,Medium Volume
+1162,Bikes for Kids and Adults,8,200757.604,25094.7005,22,Medium Store,Medium Volume
+1024,Exemplary Cycles,4,199242.7241,49810.681,17,Medium Store,Low Volume
+338,Systematic Sales,4,194673.5367,48668.3841,19,Medium Store,Low Volume
+1810,Sellers of Cycles,4,191268.4185,47817.1046,11,Medium Store,Low Volume
+1372,Friendly Bike Shop,7,188669.5706,26952.7958,11,Medium Store,Medium Volume
+1160,West Wind Distributors,4,187629.19,46907.2975,11,Medium Store,Low Volume
+724,Two Wheels Cycle Store,4,187620.9066,46905.2266,10,Medium Store,Low Volume
+1490,Engineered Bike Systems,4,186802.3743,46700.5935,17,Medium Store,Low Volume
+1856,Grown-up Bike Store,4,182329.6448,45582.4112,27,Medium Store,Low Volume
+634,Riverside Company,7,182323.1109,26046.1587,17,Medium Store,Medium Volume
+1140,Express Bike Services,4,181275.3072,45318.8268,22,Medium Store,Low Volume
+542,Best o' Bikes,4,180540.1809,45135.0452,18,Medium Store,Low Volume
+1472,Tachometers and Accessories,8,178417.4402,22302.18,20,Medium Store,Medium Volume
+630,Rural Department Store,4,175314.5721,43828.643,11,Medium Store,Low Volume
+1156,Leisure Activities,4,167309.552,41827.388,11,Medium Store,Low Volume
+994,Incomparable Bicycle Store,4,161065.5778,40266.3944,10,Medium Store,Low Volume
+1378,Selected Distributors,4,160295.0956,40073.7739,12,Medium Store,Low Volume
+1366,Sensible Sports,4,156384.9148,39096.2287,9,Medium Store,Low Volume
+734,Superlative Bikes,8,154673.8263,19334.2282,21,Medium Store,Medium Volume
+950,The Bicycle Accessories Company,8,149464.3405,18683.0425,14,Medium Store,Medium Volume
+1480,Orange Bicycle Company,7,149102.1619,21300.3088,27,Medium Store,Medium Volume
+450,Unsurpassed Bikes,4,145605.3662,36401.3415,13,Medium Store,Low Volume
+360,Novelty Bikes,4,140388.9093,35097.2273,16,Medium Store,Low Volume
+488,Historic Bicycle Sales,4,138049.3176,34512.3294,9,Medium Store,Low Volume
+1132,General Industries,7,135845.8816,19406.5545,25,Medium Store,Medium Volume
+706,Rental Gallery,4,135647.8443,33911.961,21,Medium Store,Low Volume
+1796,Professional Containers and Packaging Co.,4,129760.0328,32440.0082,20,Medium Store,Low Volume
+492,Coalition Bike Company,8,129595.3374,16199.4171,35,Medium Store,Medium Volume
+502,Eighty Toy Stores,4,126126.3569,31531.5892,13,Medium Store,Low Volume
+640,Western Bike Supplies,4,126116.0237,31529.0059,7,Medium Store,Low Volume
+1850,Wheel Gallery,4,122708.3434,30677.0858,11,Medium Store,Low Volume
+506,Third Bike Store,8,120883.7232,15110.4654,24,Medium Store,Medium Volume
+1186,Basic Bike Company,8,120122.2967,15015.287,23,Medium Store,Medium Volume
+896,Quick Delivery Service,4,116429.3522,29107.338,9,Medium Store,Low Volume
+676,Inexpensive Parts Shop,4,116223.1933,29055.7983,20,Medium Store,Low Volume
+766,Extreme Toy Store,7,106429.1498,15204.1642,21,Medium Store,Medium Volume
+584,Curbside Universe,7,99882.6548,14268.9506,18,Medium Store,Medium Volume
+452,Field Trip Inc,8,99685.7145,12460.7143,17,Medium Store,Medium Volume
+886,Our Sporting Goods Store,5,96819.8158,19363.9631,16,Medium Store,Medium Volume
+1020,Bicycle Warehouse Inc.,8,94810.566,11851.3207,28,Medium Store,Medium Volume
+494,Travel Systems,10,94106.4738,9410.6473,24,Medium Store,High Volume
+1138,Roving Sports,7,91818.5301,13116.9328,12,Medium Store,Medium Volume
+614,Outdoor Sporting Goods,3,89582.416,29860.8053,13,Medium Store,Low Volume
+604,Mechanical Sports Center,7,89474.0535,12782.0076,23,Medium Store,Medium Volume
+1072,Producer Goods Clearinghouse,8,84820.0354,10602.5044,23,Medium Store,Medium Volume
+1146,Vale Riding Supplies,4,84375.938,21093.9845,7,Medium Store,Low Volume
+1298,Racing Partners,4,83200.2406,20800.0601,20,Medium Store,Low Volume
+620,Tandem Bicycle Store,7,74542.0593,10648.8656,27,Medium Store,Medium Volume
+1460,Cycles and Scooters,3,73817.497,24605.8323,6,Medium Store,Low Volume
+454,Tire Company,5,73347.0207,14669.4041,9,Medium Store,Medium Volume
+536,Nonskid Tire Company,10,72374.4097,7237.4409,24,Medium Store,High Volume
+1406,Professional Cyclists,8,72039.8159,9004.9769,18,Medium Store,Medium Volume
+730,Very Best Sports Supply,7,71403.7862,10200.5408,22,Medium Store,Medium Volume
+384,Seaside Bike Works,4,69266.283,17316.5707,14,Medium Store,Low Volume
+740,Touring Services,5,65699.2882,13139.8576,10,Medium Store,Medium Volume
+876,Versatile Sporting Goods Company,8,63822.0227,7977.7528,13,Medium Store,Medium Volume
+1012,Stylish Department Stores,3,60001.1379,20000.3793,6,Medium Store,Low Volume
+1812,Maintenance and Repair for Bicycles,4,58943.9766,14735.9941,5,Medium Store,Low Volume
+992,Latest Accessories Sales,5,58897.5304,11779.506,5,Small Store,Medium Volume
+1218,Fad Outlet,7,58529.2569,8361.3224,12,Small Store,Medium Volume
+742,Vehicle Shop,8,58052.5432,7256.5679,16,Small Store,Medium Volume
+1482,Riding Associates,4,57559.0926,14389.7731,10,Small Store,Low Volume
+380,Workout Emporium,4,56483.5053,14120.8763,6,Small Store,Low Volume
+1380,Impervious Paint Company,4,56085.1002,14021.275,10,Small Store,Low Volume
+574,Fifth Bike Store,10,55718.1875,5571.8187,10,Small Store,High Volume
+1986,Recreation Toy Store,8,52727.3487,6590.9185,28,Small Store,Medium Volume
+328,Purchase Mart,4,52210.0773,13052.5193,18,Small Store,Low Volume
+1130,Efficient Cycling,4,52051.5435,13012.8858,13,Small Store,Low Volume
+386,Nice Bikes,4,48806.2678,12201.5669,12,Small Store,Low Volume
+1870,Big Cycle Mall,4,45851.5662,11462.8915,10,Small Store,Low Volume
+1476,Low Price Cycles,4,43281.7256,10820.4314,9,Small Store,Low Volume
+1000,Games and Sport Supply Company,4,43119.7764,10779.9441,4,Small Store,Low Volume
+1448,Friendly Neighborhood Bikes,5,42454.2306,8490.8461,7,Small Store,Medium Volume
+880,The Bike Shop,9,41604.5592,4622.7288,11,Small Store,High Volume
+1178,Enterprise Center,4,40974.3848,10243.5962,14,Small Store,Low Volume
+510,Bikes for Two,8,40711.6864,5088.9608,20,Small Store,Medium Volume
+1244,Finish and Sealant Products,3,39160.1068,13053.3689,11,Small Store,Low Volume
+456,Uncompromising Quality Co,4,38664.414,9666.1035,6,Small Store,Low Volume
+1346,Fitness Hotel,8,37866.6366,4733.3295,16,Small Store,Medium Volume
+1804,Cycle Clearance,4,37470.6326,9367.6581,7,Small Store,Low Volume
+586,Alternative Vehicles,3,37208.71,12402.9033,6,Small Store,Low Volume
+560,Online Bike Sellers,3,36828.2776,12276.0925,5,Small Store,Low Volume
+1102,Leisure Clearing House,5,35829.3387,7165.8677,10,Small Store,Medium Volume
+1154,Instant Cycle Store,6,35654.7579,5942.4596,13,Small Store,Medium Volume
+304,Bicycle Accessories and Kits,3,35608.6994,11869.5664,10,Small Store,Low Volume
+1004,Finer Mart,4,35233.3396,8808.3349,6,Small Store,Low Volume
+930,Associated Bikes,4,34042.0643,8510.516,13,Small Store,Low Volume
+1458,Alpine Ski House,7,32704.3563,4672.0509,6,Small Store,Medium Volume
+332,Family's Favorite Bike Shop,7,32525.7875,4646.541,14,Small Store,Medium Volume
+1368,Reliable Retail Center,6,31366.1569,5227.6928,11,Small Store,Medium Volume
+362,Distinctive Cycles Sales & Service,5,30797.8436,6159.5687,8,Small Store,Medium Volume
+1988,Retreat Inn,8,30531.9938,3816.4992,17,Small Store,Medium Volume
+354,Acclaimed Bicycle Company,4,30155.357,7538.8392,11,Small Store,Low Volume
+914,Social Activities Club,8,30107.047,3763.3808,10,Small Store,Medium Volume
+1148,A Great Bicycle Company,6,29446.457,4907.7428,10,Small Store,Medium Volume
+898,Tough and Reliable Parts,6,27592.5187,4598.7531,8,Small Store,Medium Volume
+312,Vinyl and Plastic Goods Corporation,9,27429.4575,3047.7175,8,Small Store,High Volume
+736,Primary Cycle Shop,7,26557.4879,3793.9268,13,Small Store,Medium Volume
+350,Twin Cycles,4,26012.298,6503.0745,13,Small Store,Low Volume
+1918,Simple Bike Parts,8,25168.8035,3146.1004,12,Small Store,Medium Volume
+844,Future Bikes,6,25127.0123,4187.8353,11,Small Store,Medium Volume
+398,Grand Bicycle Stores,8,24823.2586,3102.9073,9,Small Store,Medium Volume
+564,Unusual Bicycle Company,4,24351.0474,6087.7618,8,Small Store,Low Volume
+666,Fitness Discount Store,4,24285.9692,6071.4923,20,Small Store,Low Volume
+558,Commendable Bikes,6,24141.944,4023.6573,10,Small Store,Medium Volume
+1436,Practical Bike Supply Company,4,24133.8366,6033.4591,5,Small Store,Low Volume
+1852,Top Bike Market,3,23745.7619,7915.2539,8,Small Store,Low Volume
+1100,All Seasons Sports Supply,4,23691.2749,5922.8187,10,Small Store,Low Volume
+892,Coho Sports,8,23220.3778,2902.5472,11,Small Store,Medium Volume
+588,Channel Outlet,3,22797.6416,7599.2138,14,Small Store,Low Volume
+760,Handy Bike Services,5,22659.7019,4531.9403,9,Small Store,Medium Volume
+1318,Town Industries,3,22615.5245,7538.5081,5,Small Store,Low Volume
+1470,All Cycle Shop,8,22535.4264,2816.9283,17,Small Store,High Volume
+1110,Local Sales and Rental,4,22357.6013,5589.4003,12,Small Store,Low Volume
+822,Racing Bike Outlet,7,22261.331,3180.1901,13,Small Store,Medium Volume
+1120,Rural Sales and Service,2,21761.8474,10880.9237,5,Small Store,Low Volume
+1924,Bike Products and Accessories,8,20934.1328,2616.7666,20,Small Store,High Volume
+806,Certified Sports Supply,6,20699.8743,3449.979,7,Small Store,Medium Volume
+420,Capital Riding Supplies,4,20545.216,5136.304,10,Small Store,Low Volume
+1828,Major Cycling,11,19981.1947,1816.4722,13,Small Store,High Volume
+1308,More Bikes!,3,19518.454,6506.1513,5,Small Store,Low Volume
+1088,Fast Services,6,19435.6077,3239.2679,12,Small Store,Medium Volume
+526,Futuristic Bikes,7,19417.047,2773.8638,18,Small Store,Medium Volume
+1064,Retread Tire Company,4,18921.2603,4730.315,7,Small Store,Low Volume
+1048,Countryside Company,7,18498.4114,2642.6302,10,Small Store,Medium Volume
+1340,Cycle Merchants,8,18327.7522,2290.969,12,Small Store,High Volume
+1960,Sports Store,4,18092.5074,4523.1268,8,Small Store,Low Volume
+1808,Transport Bikes,4,17948.9446,4487.2361,7,Small Store,Low Volume
+906,Fitness Bike Accessories,3,17850.5321,5950.1773,9,Small Store,Low Volume
+554,Racks and Security Systems,4,16575.4406,4143.8601,3,Small Store,Low Volume
+658,Vigorous Sports Store,7,15627.2923,2232.4703,12,Small Store,Medium Volume
+810,Rampart Amusement Company,4,15515.6755,3878.9188,9,Small Store,Low Volume
+490,Commuter Bicycle Store,4,15052.7832,3763.1958,16,Small Store,Low Volume
+1964,Extended Tours,4,14930.0727,3732.5181,9,Small Store,Low Volume
+700,Fleet Bikes,3,14742.6183,4914.2061,4,Small Store,Low Volume
+938,Two Bike Shops,8,14549.4377,1818.6797,10,Small Store,High Volume
+1932,Thrifty Parts and Sales,4,13923.5452,3480.8863,5,Small Store,Low Volume
+540,Metro Bike Works,7,13792.3104,1970.33,9,Small Store,Medium Volume
+1094,Little Bicycle Supply Shop,3,13345.9732,4448.6577,5,Small Store,Low Volume
+342,Mountain Toy Store,10,12702.8897,1270.2889,13,Small Store,High Volume
+504,Economy Bikes Company,3,12609.5116,4203.1705,4,Small Store,Low Volume
+1864,Plastic Parts Company,8,12543.4908,1567.9363,7,Small Store,High Volume
+438,First-Rate Outlet,4,12302.6458,3075.6614,10,Small Store,Low Volume
+644,Aerobic Exercise Company,4,11863.5726,2965.8931,6,Small Store,Low Volume
+1412,City Manufacturing,7,11826.2451,1689.4635,9,Small Store,Medium Volume
+310,New Bikes Company,4,11670.5137,2917.6284,5,Small Store,Low Volume
+1292,Family Entertainment Center,4,11474.7828,2868.6957,6,Small Store,Low Volume
+1926,Fitness Toys,4,10565.1488,2641.2872,8,Small Store,Low Volume
+890,Expert Sports Store,3,10455.3805,3485.1268,5,Small Store,Low Volume
+1076,Rustic Bike Store,4,10304.7223,2576.1805,8,Small Store,Low Volume
+1386,Authentic Sales and Service,4,9920.4095,2480.1023,8,Small Store,Low Volume
+1876,Demand Distributors,6,9887.108,1647.8513,8,Small Store,Medium Volume
+726,Westside Cycle Store,4,9535.8556,2383.9639,8,Small Store,Low Volume
+1074,Recreation Systems,7,9501.0782,1357.2968,13,Small Store,Medium Volume
+1168,Optimal Bikes,4,9457.9359,2364.4839,13,Small Store,Low Volume
+484,World Bike Discount Store,8,9014.2471,1126.7808,9,Small Store,High Volume
+1886,Trendy Department Stores,4,8842.9735,2210.7433,7,Small Store,Low Volume
+916,Blue Bicycle Company,3,8823.9229,2941.3076,5,Small Store,Low Volume
+1326,Nearby Sporting Goods,5,8669.5054,1733.901,4,Small Store,Medium Volume
+1256,Specialty Sports Store,8,8656.5738,1082.0717,14,Small Store,High Volume
+1118,Synthetic Materials Manufacturing,3,8626.353,2875.451,5,Small Store,Low Volume
+314,Top of the Line Bikes,3,8388.4653,2796.1551,5,Small Store,Low Volume
+1320,Security Racks and Locks Wholesalers,8,8195.5156,1024.4394,12,Small Store,High Volume
+1342,Global Sports Outlet,4,8173.1624,2043.2906,8,Small Store,Low Volume
+772,Professional Sporting Goods,4,8077.8432,2019.4608,6,Small Store,Low Volume
+418,Transportation Options,5,7876.7532,1575.3506,7,Small Store,Medium Volume
+784,Online Bike Catalog,4,7669.1309,1917.2827,6,Small Store,Low Volume
+320,Metropolitan Sales and Rental,8,7585.906,948.2382,9,Small Store,High Volume
+1354,Ideal Components,3,7520.2499,2506.7499,3,Small Store,Low Volume
+1068,Superior Hardware Distributors,7,7369.5884,1052.7983,6,Small Store,Medium Volume
+902,Cash & Carry Bikes,4,7295.8465,1823.9616,3,Small Store,Low Volume
+610,Mountain Emporium,1,6997.2556,6997.2556,1,Small Store,Low Volume
+408,Nearest Bike Store,3,6798.5506,2266.1835,6,Small Store,Low Volume
+1818,Eastward Bike Accessories,4,6790.6606,1697.6651,6,Small Store,Low Volume
+894,Jumbo Bikes,1,6442.7108,6442.7108,2,Small Store,Low Volume
+1116,Area Sheet Metal Supply,5,6435.7945,1287.1589,6,Small Store,Medium Volume
+1410,Exclusive Bicycle Mart,6,6346.0949,1057.6824,7,Small Store,Medium Volume
+966,The New Bike Store,7,6040.9608,862.9944,7,Small Store,Medium Volume
+1274,Self-Contained Cycle Parts Company,7,5978.0717,854.0102,9,Small Store,Medium Volume
+1096,Retail Toy Store,7,5959.037,851.291,7,Small Store,Medium Volume
+1034,The Accessories Store,5,5778.9698,1155.7939,8,Small Store,Medium Volume
+1862,Racing Association,5,5734.4915,1146.8983,5,Small Store,Medium Volume
+568,Hobby Store,8,5698.8009,712.3501,13,Small Store,High Volume
+524,Lots of Bikes Storehouse,5,5551.1658,1110.2331,6,Small Store,Medium Volume
+1826,Executive Discount Store,2,5416.3937,2708.1968,3,Small Store,Low Volume
+358,Quality Bike Sales,4,5252.1678,1313.0419,5,Small Store,Low Volume
+722,Pedals Warehouse,6,5246.8526,874.4754,7,Small Store,Medium Volume
+650,Distance Bikes,6,4754.0756,792.3459,7,Small Store,Medium Volume
+1092,Good Toys,6,4604.9801,767.4966,7,Small Store,Medium Volume
+1166,Home Town Bike Store,4,4513.0129,1128.2532,7,Small Store,Low Volume
+1306,Two-Seater Bikes,3,4307.1487,1435.7162,4,Small Store,Low Volume
+942,Wheels Inc.,2,4283.6265,2141.8132,3,Small Store,Low Volume
+628,Ace Bicycle Supply,6,4222.0066,703.6677,5,Small Store,Medium Volume
+1442,Accessories Network,3,4067.7731,1355.9243,4,Small Store,Low Volume
+566,Courteous Bicycle Specialists,4,4045.7248,1011.4312,7,Small Store,Low Volume
+1112,Economy Center,3,3901.348,1300.4493,3,Small Store,Low Volume
+1280,Largest Bike Store,5,3789.2066,757.8413,5,Small Store,Medium Volume
+1272,Outdoor Aerobic Systems Company,3,3704.5709,1234.8569,3,Small Store,Low Volume
+436,Second Bike Shop,3,3704.5709,1234.8569,3,Small Store,Low Volume
+1078,Eastside Parts Shop,3,3672.2416,1224.0805,4,Small Store,Low Volume
+1054,Eastside Cycle Shop,4,3591.2754,897.8188,5,Small Store,Low Volume
+960,The Showroom,4,3360.4111,840.1027,5,Small Store,Low Volume
+1978,Exercise Center,4,3307.5803,826.895,6,Small Store,Low Volume
+1408,Sports Products Store,4,3240.3446,810.0861,4,Small Store,Low Volume
+1434,Endurance Bikes,4,3235.6852,808.9213,5,Small Store,Low Volume
+872,Summer Sports Place,4,2835.6847,708.9211,4,Small Store,Low Volume
+390,Road-Way Mart,1,2798.9022,2798.9022,1,Small Store,Low Volume
+1806,Black Bicycle Company,2,2783.822,1391.911,2,Small Store,Low Volume
+406,Kickstand Sellers,3,2605.9538,868.6512,5,Small Store,Low Volume
+868,Central Bicycle Specialists,3,2592.6763,864.2254,4,Small Store,Low Volume
+690,Kids and Adults Cycle Shop,3,2401.8762,800.6254,3,Small Store,Low Volume
+670,Fitness Cycling,4,2393.3168,598.3292,5,Small Store,Low Volume
+1224,Acceptable Sales & Service,2,2361.5536,1180.7768,3,Small Store,Low Volume
+1880,Off-Price Bike Center,4,2092.0874,523.0218,4,Small Store,Low Volume
+836,Active Cycling,2,2034.3275,1017.1637,2,Small Store,Low Volume
+840,Roadway Supplies,2,2002.157,1001.0785,2,Small Store,Low Volume
+1416,Pedal Systems Company,4,1998.673,499.6682,4,Small Store,Low Volume
+854,First Center,4,1935.7608,483.9402,4,Small Store,Low Volume
+1216,Beneficial Exercises and Activities,5,1935.1035,387.0207,5,Small Store,Medium Volume
+1232,Mail Market,3,1838.3798,612.7932,5,Small Store,Low Volume
+1428,Spoke Manufacturers,5,1821.0996,364.2199,5,Small Store,Medium Volume
+952,Active Systems,3,1770.5877,590.1959,5,Small Store,Low Volume
+330,Major Sport Suppliers,4,1715.6682,428.917,5,Small Store,Low Volume
+1432,Good Bicycle Store,2,1712.4431,856.2215,2,Small Store,Low Volume
+830,Showcase for Cycles,4,1702.533,425.6332,3,Small Store,Low Volume
+1906,Regional Cycle Shop,3,1697.8382,565.946,3,Small Store,Low Volume
+850,Regional Manufacturing,2,1627.2138,813.6069,2,Small Store,Low Volume
+920,General Riding Supplies,2,1575.882,787.941,2,Small Store,Low Volume
+888,Lustrous Paints and Components,1,1514.006,1514.006,1,Small Store,Low Volume
+1286,Neighborhood Bicycle Storehouse,3,1512.2596,504.0865,7,Small Store,Low Volume
+1954,Recreation Supplies,1,1459.2824,1459.2824,1,Small Store,Low Volume
+1454,Recommended Bicycles,2,1457.3288,728.6644,2,Small Store,Low Volume
+1910,Wingtip Toys,3,1452.5356,484.1785,3,Small Store,Low Volume
+1814,Fitness Department Stores,3,1422.3392,474.113,3,Small Store,Low Volume
+1466,Seats and Saddles Company,1,1384.3708,1384.3708,1,Small Store,Low Volume
+1872,Budget Bike Company,3,1202.1977,400.7325,3,Small Store,Low Volume
+1884,Retirement Activities Association,4,1194.4582,298.6145,4,Small Store,Low Volume
+1060,Operational Manufacturing,1,1191.9771,1191.9771,3,Small Store,Low Volume
+1196,Weekend Bike Tours,1,1149.1888,1149.1888,1,Small Store,Low Volume
+1824,Major Sporting Goods,2,1057.976,528.988,2,Small Store,Low Volume
+1212,Road Way Sales and Rental,2,856.8631,428.4315,2,Small Store,Low Volume
+778,One-Piece Handle Bars,1,816.1709,816.1709,1,Small Store,Low Volume
+1106,The Commissary,2,807.0358,403.5179,2,Small Store,Low Volume
+1144,Retail Discount Store,1,757.003,757.003,1,Small Store,Low Volume
+1062,Online Bike Warehouse,2,752.6697,376.3348,2,Small Store,Low Volume
+430,Center Cycle Shop,1,563.711,563.711,2,Small Store,Low Volume
+578,Rambling Tours,1,516.3666,516.3666,2,Small Store,Low Volume
+1382,Shipping Specialists,2,498.4405,249.2202,2,Small Store,Low Volume
+924,Riding Excursions,1,472.3108,472.3108,1,Small Store,Low Volume
+528,Parcel Express Delivery Service,1,472.3108,472.3108,1,Small Store,Low Volume
+714,Discount Bicycle Specialists,1,472.3108,472.3108,1,Small Store,Low Volume
+508,Atypical Bike Company,2,430.5564,215.2782,2,Small Store,Low Volume
+1892,West Side Mart,3,383.0017,127.6672,3,Small Store,Low Volume
+514,Widget Bicycle Specialists,1,364.8172,364.8172,1,Small Store,Low Volume
+842,Sensational Discount Store,1,364.8172,364.8172,1,Small Store,Low Volume
+1288,Gear-Shift Bikes Limited,1,228.534,228.534,1,Small Store,Low Volume
+1122,Tubeless Tire Company,1,225.9588,225.9588,1,Small Store,Low Volume
+972,Major Bicycle Store,1,225.9588,225.9588,1,Small Store,Low Volume
+1128,Retail Sporting Goods,1,207.7582,207.7582,1,Small Store,Low Volume
+1902,Chain and Chain Tool Distributions,1,186.6284,186.6284,1,Small Store,Low Volume
+1912,The Cycle Store,1,169.2827,169.2827,1,Small Store,Low Volume
+336,Imported and Domestic Cycles,1,168.3305,168.3305,1,Small Store,Low Volume
+996,Hometown Riding Supplies,1,159.12,159.12,1,Small Store,Low Volume
+912,Retail Cycle Shop,1,101.5473,101.5473,1,Small Store,Low Volume
+1172,Extras Sporting Goods,1,76.2853,76.2853,1,Small Store,Low Volume
+1484,Essential Bike Works,2,66.0833,33.0416,1,Small Store,Low Volume
+1952,Large Bike Shop,2,65.589,32.7945,2,Small Store,Low Volume
+1176,Eleventh Bike Store,1,64.242,64.242,1,Small Store,Low Volume
+922,Parts Shop,1,27.4401,27.4401,1,Small Store,Low Volume
+1904,Mobile Outlet,1,1.5183,1.5183,1,Small Store,Low Volume
