@@ -15,7 +15,7 @@ This project analyses sales performance, store operations, and employee metrics 
 - SQL (for data extraction)
 - Python
   - Pandas (data manipulation)
-  - Matplotlib/Seaborn (visualization)
+  - Matplotlib/Seaborn (visualisation)
 - AdventureWorks2019 Database
 
 ## Key Findings
